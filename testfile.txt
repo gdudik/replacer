@@ -1,0 +1,315 @@
+5,1,1,Girls 100,,,,,,100
+,1072,1,Owre,Lucy,Peak Performance
+,1229,2,Lune,Siann,Unattached
+,1239,3,St. Clair,Emerson,Unattached
+,1000,4,Bauman,Laila,Unattached
+,1207,5,Knox,Kendall,Unattached
+,1058,6,Lindgren,Natalie,Cool Running Track Club
+,1065,7,Narvaez,Adalin,Peak Performance
+,1197,8,Lovely,Kate,Unattached
+,1220,9,Jones,Soleis,Unattached
+5,1,2,Girls 100,,,,,,100
+,1200,1,Hasbrook,Alexia,Unattached
+,1086,2,Rowles,Magnolia,Unattached
+,1162,3,Stephens,Kessa,Unattached
+,1111,4,Turpen,Marina,Ultimate Speed Athletics
+,1087,5,Ruppe,Emersen,Unattached
+,1074,6,Peddicord,Amelia,Unattached
+,1090,7,Schell,Hannah,Unattached
+,1002,8,Blakely,Hannah,Unattached
+,1062,9,Miele,Kasemsri,Unattached
+5,1,3,Girls 100,,,,,,100
+,1041,1,Holstrom,Allison,Unattached
+,1164,2,Ackerman,Paris,Unattached
+,1211,3,Houg,Tori,Unattached
+,1104,4,Teel,Lily,Unattached
+,1132,5,Hart,Jessy,Unattached
+,1173,6,Clark,MACKENZIE,Unattached
+,1234,7,Kochevar,Lisa,Unattached
+,1129,8,Watson,Aubree,Unattached
+6,1,1,Boys 100,,,,,,100
+,1089,1,Sanders,Logan,Cool Running Track Club
+,1191,2,Heise,Quinten,Unattached
+,1135,3,Bird,Anthony,Unattached
+,1148,4,Acevedo,Liam,Unattached
+,1237,5,Nettles,Kadryn,Unattached
+,1176,6,Van Mullisen,Jake,Unattached
+,1213,7,Wong,Jett,Unattached
+,1240,8,Wilson,Jayvian,Unattached
+6,1,2,Boys 100,,,,,,100
+,1003,1,Boehme,Zack,Unattached
+,1136,2,Ross,Arlo,Unattached
+,1130,3,Fielts,Devin,Unattached
+,1199,4,Lovely,Oscar,Unattached
+,1245,5,Lains,Terry,Unattached
+,1034,6,Gardner,Elliott,Unattached
+,1171,7,Hagemeyer,Griffin,Unattached
+,1145,8,Kirk,Ben,Unattached
+,1143,9,Renville,Colemin,Unattached
+6,1,3,Boys 100,,,,,,100
+,1203,1,Shorb,Spencer,Unattached
+,1139,2,Acevedo,Allen,Unattached
+,1201,3,Chaney,Treyson,Unattached
+,1155,4,Fetterhoff,Atom,Unattached
+,1144,5,Gama,Felix,Unattached
+,1063,6,Miller,Cash,Unattached
+,1189,7,Adams,Tristen,Unattached
+,1181,8,Derkins,Ryan,Unattached
+,1152,9,Peek,Jacob,Unattached
+6,1,4,Boys 100,,,,,,100
+,1025,1,Flores Escorza,Jeyden,Unattached
+,1020,2,Elrod,Cohen,South Umpqua
+,1157,3,Metianu,Alex,Unattached
+,1168,4,Withalm,Griffin,Unattached
+,1175,5,Hermontez-Reja,Sebastian,Unattached
+,1190,6,Adams,Micah,Unattached
+,1150,7,Acevedo,Salomon,Unattached
+,1012,8,Davis,Kirk,Unattached
+,1198,9,Lovely,Drew,Unattached
+6,1,5,Boys 100,,,,,,100
+,1151,1,Acevedo,Allen SR,Unattached
+,1057,2,Le,Gary,Unattached
+,1167,3,Banfield,Revac,Unattached
+,1044,4,Isais,Brennen,Cool Running Track Club
+,1040,5,Holmes,Luke,Cool Running Track Club
+,1054,6,Kanahele-peters,Ryden,Cool Running Track Club
+,1027,7,Forsha,Eli,Unattached
+,1195,8,Hunt,Jeff,Unattached
+,997,9,Ballard,Joshua,Unattached
+6,1,6,Boys 100,,,,,,100
+,1119,1,Sheppard,Billy,Unattached
+,1133,2,Micah,Strong,Unattached
+,1187,3,Evans,David,Unattached
+,1217,4,Andrews,Cameron,Unattached
+,1007,5,Burgett,Jack,Unattached
+,1218,6,LE,Teo,Unattached
+,1169,7,Biodrowski,Brandon,Unattached
+,1216,8,Wittrell,Solomon,Unattached
+,1223,9,Wilson,Isaiah,Unattached
+6,1,7,Boys 100,,,,,,100
+,1253,1,Allen,Andrew,Unattached
+,1008,2,Burson,Alex,Unattached
+,1106,3,Threet,Joshua,Unattached
+,1075,4,Peebles,Cameron,Unattached
+,1214,5,Slye,Damon,Unattached
+,1184,6,Tanqary,Jarvis,Unattached
+6,1,8,Boys 100,,,,,,100
+,1224,2,Mussack,Tim,Unattached
+,1166,3,Nicholson,Tim,Unattached
+,992,4,Arnold,Mike,Unattached
+,1215,5,Chartrey,Michael,Unattached
+,1138,6,Harris,John,Unattached
+,1100,7,Sweet,Richard,Unattached
+4,1,1,1 Mile,,,,,,1
+,1236,1,Gray,Kylan,Unattached
+,1059,2,Lovell,Marissa,Unattached
+,1227,3,Taylor,Zackry,Unattached
+,1275,4,Haems,Mike,Unattached
+,1252,5,Netzlot,Luke,Unattached
+,1049,6,Jensen,Pearl,Unattached
+,1225,7,Francis,Owen,Unattached
+,1005,8,Brownell,Logan,Peak Performance
+,1235,9,Rice,Jesse,Unattached
+,1205,10,McCart,Sophia,Unattached
+,1246,11,Steiner,Sabine,Unattached
+,1188,12,Koon,Rachel,Unattached
+,1219,13,Frey,Casey,Unattached
+,1241,14,Andrew,Kirchharr,Unattached
+,1243,15,Bauer,Brad,Unattached
+,1232,16,Bomar,Braeden,Unattached
+,1091,17,Schofield,Brian,Unattached
+4,1,2,1 Mile,,,,,,1
+,1266,1,Wyckoff,William,Unattached
+,1202,2,French,Derek,Unattached
+,1267,3,Ulrich,Snake,Unattached
+,1270,4,Ulrich,McKenzie,Unattached
+,1268,5,Ulrich,Lindsey,Unattached
+,1261,6,Leonard,Craig,Unattached
+,1088,7,Salman,Tammy,Unattached
+,1262,8,Leonard,Katie,Unattached
+,1278,9,Young,Sarah,Unattached
+,1272,10,Bennton,Jon,Unattached
+,1077,11,Peila,Joseph,Unattached
+,1256,12,Kapella,Kyle,Unattached
+,1258,13,Parece,Kenneth,Unattached
+,1094,14,Shunk,David,Unattached
+,1100,15,Sweet,Richard,Unattached
+,1233,16,Richmond,Piper,Unattached
+,1230,17,Lane,Koely,Unattached
+,1026,18,Forester,Austin,Unattached
+,1250,19,Clark,Richard,Unattached
+,1247,20,Christanson,Alita,Unattached
+7,1,1,Girls 400 Meter Dash,,,,,,400
+,1229,1,Lune,Siann,Unattached
+,1196,2,Lovely,Teresa,Unattached
+,1051,3,Johnson,Mary,Ideal Performance Athletics
+,1284,4,Higgins,Kenna,Unattached
+,1257,5,Leonard,Kylie,Unattached
+,1163,6,Banfield,Oliiva,Unattached
+8,1,1,Boys 400 Meter Dash,,,,,,400
+,1063,1,Miller,Cash,Unattached
+,1067,2,Neilson,Austin,Unattached
+,1259,3,Fine,Logan,Unattached
+,1208,4,Lopez,Evan,Unattached
+,1191,5,Heise,Quinten,Unattached
+,1251,6,Jones,TY,Unattached
+,1248,7,Plummer,Eric,Unattached
+,1264,8,Davis,Grant,Unattached
+,1283,9,Vanduch,Derrick,Unattached
+8,1,2,Boys 400 Meter Dash,,,,,,400
+,1260,1,Fine,Tyler,Unattached
+,1008,2,Burson,Alex,Unattached
+,1119,3,Sheppard,Billy,Unattached
+,1122,4,Seratte,Aidan,Unattached
+,1169,5,Biodrowski,Brandon,Unattached
+,1271,6,Pulju,Dan,Unattached
+,1253,7,Allen,Andrew,Unattached
+,1254,8,LI,Ngai,Unattached
+,1189,9,Adams,Tristen,Unattached
+14,1,1,Muxed 800 Meter Run,,,,,,800
+,1284,1,Higgins,Kenna,Unattached
+,1244,2,Maier,Bree,Unattached
+,1086,3,Rowles,Magnolia,Unattached
+,1049,4,Jensen,Pearl,Unattached
+,1239,5,St. Clair,Emerson,Unattached
+,1276,6,Johnson Hess,Evangeline,Unattached
+,1228,7,Washington,Jazlene,Unattached
+,1039,8,Holdt,Hannah,Unattached
+,1090,9,Schell,Hannah,Unattached
+,1220,10,Jones,Soleis,Unattached
+14,1,2,Muxed 800 Meter Run,,,,,,800
+,1140,1,Sullivan,Wyatt,Unattached
+,1160,2,Stephens,Ivor,Unattached
+,1204,3,Landerdahl,John,Unattached
+,1203,4,Shorb,Spencer,Unattached
+,1096,5,Sullivan,Ethan,Peak Performance
+,1286,6,Figueroa Ramirez,Miguel,Unattached
+,1226,7,Czepiel,Justin,Unattached
+,1030,8,Freres,Hap,Peak Performance
+,1269,9,Ulrich,Sam,Unattached
+,1283,10,Vanduch,Derrick,Unattached
+14,1,3,Muxed 800 Meter Run,,,,,,800
+,1273,1,Estes,Nathan,Unattached
+,1241,2,Andrew,Kirchharr,Unattached
+,1219,3,Frey,Casey,Unattached
+,1202,4,French,Derek,Unattached
+,1010,5,Cortes Garay,Jorge A,Team Ros
+,1227,6,Taylor,Zackry,Unattached
+,1293,7,Siepert,TY,Unattached
+,1001,8,Becker,Chase,Unattached
+12,1,1,Girls 200 Meter Dash,,,,,,200
+,1058,2,Lindgren,Natalie,Cool Running Track Club
+,1280,3,Foote,Ava,Unattached
+,1277,4,Morgan,Lyda,Unattached
+,1279,5,Eichner,Amelia,Unattached
+,1239,6,St. Clair,Emerson,Unattached
+,1207,7,Knox,Kendall,Unattached
+12,1,2,Girls 200 Meter Dash,,,,,,200
+,1164,1,Ackerman,Paris,Unattached
+,1163,2,Banfield,Oliiva,Unattached
+,1065,3,Narvaez,Adalin,Peak Performance
+,1087,4,Ruppe,Emersen,Unattached
+,1111,5,Turpen,Marina,Ultimate Speed Athletics
+,1062,6,Miele,Kasemsri,Unattached
+,1220,7,Jones,Soleis,Unattached
+,1257,8,Leonard,Kylie,Unattached
+13,1,1,Boys 200,,,,,,200
+,1143,1,Renville,Colemin,Unattached
+,1289,2,Miller,Nicholas,Unattached
+,1191,3,Heise,Quinten,Unattached
+,1139,4,Acevedo,Allen,Unattached
+,1135,5,Bird,Anthony,Unattached
+,1120,6,Serratte,KY,Unattached
+,1089,7,Sanders,Logan,Cool Running Track Club
+,1145,8,Kirk,Ben,Unattached
+,1034,9,Gardner,Elliott,Unattached
+13,1,2,Boys 200,,,,,,200
+,1240,1,Wilson,Jayvian,Unattached
+,1237,2,Nettles,Kadryn,Unattached
+,1213,3,Wong,Jett,Unattached
+,1175,4,Hermontez-Reja,Sebastian,Unattached
+,1181,5,Derkins,Ryan,Unattached
+,1025,6,Flores Escorza,Jeyden,Unattached
+,1190,7,Adams,Micah,Unattached
+,1204,8,Landerdahl,John,Unattached
+,1037,9,Halden,Ezekiel,Unattached
+13,1,3,Boys 200,,,,,,200
+,1150,2,Acevedo,Salomon,Unattached
+,1238,3,Nicholls,Wesley,Unattached
+,1054,4,Kanahele-peters,Ryden,Cool Running Track Club
+,1044,5,Isais,Brennen,Cool Running Track Club
+,1063,6,Miller,Cash,Unattached
+,1027,7,Forsha,Eli,Unattached
+13,1,4,Boys 200,,,,,,200
+,1167,1,Banfield,Revac,Unattached
+,1007,3,Burgett,Jack,Unattached
+,1133,4,Micah,Strong,Unattached
+,1217,5,Andrews,Cameron,Unattached
+,1187,6,Evans,David,Unattached
+,999,7,Bauman,James,Ultimate Speed Athletics
+,1218,8,LE,Teo,Unattached
+,1221,9,Murphey,Brennen,Unattached
+13,1,5,Boys 200,,,,,,200
+,1297,1,Kincannon,Hunter,Unattached
+,1151,2,Acevedo,Allen SR,Unattached
+,1093,3,Sharps,Riley,Unattached
+,1253,4,Allen,Andrew,Unattached
+,1216,5,Wittrell,Solomon,Unattached
+,1299,6,Petterson,Hunter,Unattached
+,1254,7,LI,Ngai,Unattached
+,1169,8,Biodrowski,Brandon,Unattached
+,1166,9,Nicholson,Tim,Unattached
+15,1,1,Muxed 3000 Meter Run,,,,,,3000
+,1282,2,Godwin,Craig,Unattached
+,1275,4,Haems,Mike,Unattached
+,994,5,Axon,Henry,Unattached
+,1114,6,Warkentin,Talan,Peak Performance
+,1301,7,Coughlan,Greg,Unattached
+,1281,8,Christian,John,Unattached
+,1288,9,Sage,Don,Unattached
+,1115,10,Williamson,Isaac,Unattached
+,1274,11,Estes,Adrian,Unattached
+,1287,13,Schartz,Liv,Unattached
+,1082,14,Phillips,Luke,Unattached
+,1295,15,Harns,Daniel,Unattached
+,1091,17,Schofield,Brian,Unattached
+,1059,19,Lovell,Marissa,Unattached
+15,1,2,Muxed 3000 Meter Run,,,,,,3000
+,1103,1,Taylor,Jayden,Unattached
+,1296,3,MACDUFFEE,Hannah,Unattached
+,1300,12,Yorges,Chris,Unattached
+,1050,16,Jensen,Sailor,Unattached
+,1263,18,Guardino,Thomas,Unattached
+,1045,20,Jensen,Brendon,Unattached
+,1302,21,Harbert,Ollie,Unattached
+,1030,22,Freres,Hap,Peak Performance
+,1268,23,Ulrich,Lindsey,Unattached
+,1291,24,Kennedy,Adam,Unattached
+,1077,25,Peila,Joseph,Unattached
+,1001,26,Becker,Chase,Unattached
+,1298,27,Bigsby,Cassidy,Unattached
+,1292,28,Lane,Sidney,Unattached
+,1026,29,Forester,Austin,Unattached
+,1233,30,Richmond,Piper,Unattached
+46,1,1,Muxed 4x400 Meter Relay,,,,,,1602
+,,1,Unattached,,UNAT  M
+,,2,Unattached,,UNAT  L
+,,3,Unattached,,UNAT  N
+,,4,Unattached,,UNAT  J
+,,5,Unattached,,UNAT  K
+,,6,Unattached,,UNAT  Q
+,,7,Unattached,,UNAT  R
+,,8,Unattached,,UNAT  O
+,,9,Unattached,,UNAT  P
+46,1,2,Muxed 4x400 Meter Relay,,,,,,1601
+,,1,Unattached,,UNAT  A
+,,2,Unattached,,UNAT  B
+,,3,Unattached,,UNAT  C
+,,4,Unattached,,UNAT  D
+,,5,Unattached,,UNAT  E
+46,1,3,Muxed 4x400 Meter Relay,,,,,,1623
+,,1,Cool Running Track Club,,37CR  S
+,,2,Cool Running Track Club,,37CR  T
+,,3,Cool Running Track Club,,37CR  U
+,,4,Cool Running Track Club,,37CR  V
+,,5,Cool Running Track Club,,37CR  W
