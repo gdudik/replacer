@@ -9,9 +9,9 @@ from termcolor import colored
 os.system('color')
 
 # Define the path to the file to watch
-print(colored("Welcome to the replacer. Before proceeding, create a 'definitions.csv' \nfile and place it in the same folder as this program. \nA definitions file should be a csv where each \nrow contains a record of a string you'd like to replace, and the string you'd like to replace it with. There should be no header.\nExample:",'blue'))
+print(colored("Welcome to the replacer. Before proceeding, create a 'definitions.csv' \nfile and place it in the same folder as this program. \nA definitions file should be a csv where each \nrow contains a record of a string you'd like to replace, and the string you'd like to replace it with. There should be no header.\nExample:",'cyan'))
 print(colored("`Varsity Boys 100 Meter Dash, Boys 100\nJV Girls 200 Meter Dash, JV Girls 200`", 'yellow'))
-print(colored("This program will automatically watch the evt file you specify and apply the changes whenever the file is updated.", 'blue'))
+print(colored("This program will automatically watch the evt file you specify and apply the changes whenever the file is updated.", 'cyan'))
 entered_path = input('Enter path to evt file: ')
 entered_path = entered_path.strip('\'"')
 FILE_PATH = os.path.abspath(entered_path)
