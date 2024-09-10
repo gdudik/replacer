@@ -4,8 +4,14 @@ import time
 import csv
 from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
+from termcolor import colored
+
+os.system('color')
 
 # Define the path to the file to watch
+print(colored("Welcome to the replacer. Before proceeding, create a 'definitions.csv' \nfile and place it in the same folder as this program. \nA definitions file should be a csv where each \nrow contains a record of a string you'd like to replace, and the string you'd like to replace it with. There should be no header.\nExample:",'blue'))
+print(colored("`Varsity Boys 100 Meter Dash, Boys 100\nJV Girls 200 Meter Dash, JV Girls 200`", 'yellow'))
+print(colored("This program will automatically watch the evt file you specify and apply the changes whenever the file is updated.", 'blue'))
 entered_path = input('Enter path to evt file: ')
 FILE_PATH = os.path.abspath(entered_path)
 
@@ -15,9 +21,12 @@ def load_csv():
     with open('./definitions.csv', 'r') as file:
         reader = csv.DictReader(file)
         for row in reader:
-            key = row['find'].strip()
-            value = row['replace'].strip()
-            result_dict[key] = value
+            if len(row) >= 2:
+                key = row[0].strip()
+                value = row[1].strip()
+                result_dict[key] = value
+            else:
+                print(f'Skipping row {row} due to insufficient data')
     return result_dict
 
 
