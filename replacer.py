@@ -13,6 +13,7 @@ print(colored("Welcome to the replacer. Before proceeding, create a 'definitions
 print(colored("`Varsity Boys 100 Meter Dash, Boys 100\nJV Girls 200 Meter Dash, JV Girls 200`", 'yellow'))
 print(colored("This program will automatically watch the evt file you specify and apply the changes whenever the file is updated.", 'blue'))
 entered_path = input('Enter path to evt file: ')
+entered_path = entered_path.strip('\'"')
 FILE_PATH = os.path.abspath(entered_path)
 
 # Define your find-and-replace rules (as key-value pairs)
